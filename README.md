@@ -1,3 +1,4 @@
+Command line ruby program to calculate total and unique visits from a given log file. Very strong SOLID design approach.
 # Screenshots
 ![Log reader](https://github.com/nbalog/log-reader/blob/main/img/log_reader.png?raw=true)
 # Installation
