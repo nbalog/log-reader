@@ -1,5 +1,5 @@
 # Screenshots
-![Log reader](https://github.com/nbalog/log-reader/blob/main/img/log_reader.png?raw=true)
+![Log reader](https://github.com/nbalog/log-reader/img/log_reader.png?raw=true)
 # Installation
 ## Install project
 ``` git clone https://github.com/nbalog/log-reader.git ```
